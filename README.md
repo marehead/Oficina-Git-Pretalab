@@ -1,4 +1,26 @@
-# oficina-git-pretalab | práticas comando alert em js e comandos no git
+# Oficina-git-pretalab | práticas comando alert em js e comandos no git
+
+## Método javascript para receber dados de usuarios no javascript
+
+- Recebendo Dados e Informações do Usuário - Método prompt()
+
+prompt: recebedor, abre uma caixa na pagina
+const: declara variavel, constante, não muda. 
+var: declara variavel, e possibilita mudar.
+let: 
+string: texto entre ("");
+
+- exemplo de código: 
+
+```
+alert ("Olá Mundo!");
+
+const nome = prompt("Olá, tudo bem?");
+
+alert(` ${nome} !!!`);
+
+
+```
 
 ## configurando git
 
@@ -29,3 +51,5 @@ git commit -m "first commit"
 git pull origin main 
 git push origin main 
 ```
+(lição de casa)
+[https://www.udemy.com/course/git-e-github-para-iniciantes/] 
