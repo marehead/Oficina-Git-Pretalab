@@ -8,7 +8,7 @@ git config --global user.email ""
 
 ```
 
-## comandos para subir pasta do  git/github
+## Passos para subir pasta do  git/github
 
 * passo 1 >criar pasta no desktop 
 * passo 2 >botão direito gitbash here
