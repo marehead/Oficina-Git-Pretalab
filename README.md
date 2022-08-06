@@ -1,5 +1,6 @@
-# oficina-git-pretalab
-primeira prática comando alert em js
+# Oficina-git-pretalab: praticas em js e comandos git
+
+- primeira prática comando alert em js
 ## configurando git
 
 ```
@@ -23,7 +24,7 @@ ls (comando listar)
 
 git status
 git init
-git add .
+git add . ou nome do arquivo
 git commit -m "first commit"
 git pull origin main 
 git push origin main 
