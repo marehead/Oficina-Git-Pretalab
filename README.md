@@ -1,8 +1,15 @@
-<<<<<<< HEAD
-# Oficina-git-pretalab: praticas em js e comandos git
+# Oficina-git-pretalab: praticas em js, comandos git e anotações
+
+- definição de branch e main
+
+- definição de algoritimos
+
+push: empurrar do seu pc para o git
+
+pull: é para puxar do git para o seu pc
 
 - primeira prática comando alert em js
-=======
+
 # Oficina-git-pretalab | práticas comando alert em js e comandos no git
 
 ## Método javascript para receber dados de usuarios no javascript
@@ -27,7 +34,6 @@ alert(` ${nome} !!!`);
 
 ```
 
->>>>>>> a47699aabbc2d67d0f9bc432ddaae4b2ac9aa42d
 ## configurando git
 
 ```
