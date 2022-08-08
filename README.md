@@ -64,4 +64,4 @@ git pull origin main
 git push origin main 
 ```
 (lição de casa)
-[https://www.udemy.com/course/git-e-github-para-iniciantes/] ✔️
+[https://www.udemy.com/course/git-e-github-para-iniciantes/]✔️
